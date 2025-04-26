@@ -1,5 +1,6 @@
 🌟 Key Insights Highlighted in My Dashboard:
 
+
 1.💊 Top-Selling Drugs by Quantity:
 Identified the most demanded medicines across the hospital pharmacy.
 
@@ -21,6 +22,8 @@ Monitors stock levels, so pharmacy staff know when to reorder to avoid shortages
 🚑 How Hospitals and Pharmacies Can Benefit:
 Smarter Inventory Planning:
 
+
+
 1.Avoid stockouts and overstock by tracking fast-moving and slow-moving medicines.
 
 2.Financial Optimization:
@@ -37,6 +40,8 @@ Quickly access sales and stock data through a simple, intuitive dashboard.
 
 6.Strategic Decision-Making:
 Data-driven reports help procurement and pharmacy teams negotiate better supplier deals.
+
+
 
 📢 Call to Action📢
 I’m a passionate Data Analyst specializing in healthcare data visualization and business insights.
